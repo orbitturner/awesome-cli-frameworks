@@ -263,6 +263,10 @@ etc.
 
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) : Library for building powerful interactive command line applications in Python.
 
+- [Rich](https://github.com/Textualize/rich) : Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+- [Textual](https://github.com/Textualize/textual) : The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+
 - [Typer](https://typer.tiangolo.com/) : Library for building CLI applications that users will love using and developers will love creating. It's intended to be the FastAPI of CLIs.
 
 ## [Ruby](https://www.ruby-lang.org/)
